@@ -1,0 +1,17 @@
+{
+  "name": "apple",
+  "version": "1.0.0",
+  "description": "this is a backend Coder",
+  "keywords": [
+    "javascript",
+    "backend",
+    "code"
+  ],
+  "license": "ISC",
+  "author": "SRT",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
